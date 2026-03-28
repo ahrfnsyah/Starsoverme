@@ -40,7 +40,7 @@ export default function Home() {
   return (
     <main className="min-h-screen p-6 bg-black text-white">
       <div className="text-center mb-10">
-        <h1 className="text-4xl font-bold">Stars Over Me ✨</h1>
+        <h1 className="text-4xl font-bold">Stars Over Me</h1>
         <p className="text-zinc-400">My Favorite Song Collection</p>
       </div>
 
