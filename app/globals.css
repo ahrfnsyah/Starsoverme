@@ -24,3 +24,19 @@ body {
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+.input {
+  @apply w-full p-2 rounded bg-zinc-800 outline-none;
+}
+
+.btn-primary {
+  @apply px-3 py-1 bg-white text-black rounded;
+}
+
+.btn-secondary {
+  @apply px-3 py-1 bg-zinc-700 rounded;
+}
+
+.btn-danger {
+  @apply px-3 py-1 bg-red-600 rounded;
+}
